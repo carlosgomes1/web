@@ -31,7 +31,7 @@ export const Info = styled.span`
     }
 
     @media (max-width: 850px) {
-        margin: 120px auto;
+        margin: 300px auto;
     }
 `;
 
