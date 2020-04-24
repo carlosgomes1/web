@@ -21,7 +21,7 @@ export const Container = styled.footer`
             justify-content: center;
             align-items: baseline;
 
-            margin: auto;
+            margin-left: 30px;
         }
     }
 `;
