@@ -32,6 +32,7 @@ export const Info = styled.span`
 
     @media (max-width: 850px) {
         margin: 180px auto;
+        padding: 20px;
     }
 `;
 
