@@ -21,7 +21,7 @@ export const Container = styled.footer`
             justify-content: center;
             align-items: baseline;
 
-            margin-left: 30px;
+            padding: 0 20px;
         }
     }
 `;
