@@ -23,6 +23,12 @@ export const NavLogo = styled(Link)`
     img {
         height: 100px;
     }
+
+    @media (max-width: 850px) {
+        img {
+            width: 60%;
+        }
+    }
 `;
 
 export const NavLink = styled.a`
